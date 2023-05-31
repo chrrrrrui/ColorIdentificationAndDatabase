@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 drop table color_graph
 
 create table color_graph(
@@ -284,5 +284,4 @@ insert color_graph values (12,3,5) --青 黑 5
 insert color_graph values (12,10,4.5) --青 灰 4.5
 insert color_graph values (12,4,3) --青 白 3
 insert color_graph values (12,11,2) --青 粉紅 0
->>>>>>> bf72560992d5fe936e4358a5f189a788ebf968a2
 insert color_graph values (12,12,2) --青 青 2
